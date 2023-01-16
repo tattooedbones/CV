@@ -1,0 +1,24 @@
+
+body {
+     background-color: aqua;
+}
+h1 {
+    color: blueviolet;
+}
+h2 {
+    color: blueviolet;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 10px;
+    width: 10%;
+    border-color: gray;
+
+
+}
+.a123 
+{
+color: brown;
+}
